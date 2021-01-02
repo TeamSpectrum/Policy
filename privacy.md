@@ -45,6 +45,6 @@
 > Discord Guidelines: https://discord.com/guidelines
 ****
 
-궁금한 점은 [공식 서포트 서버](https://discord.gg/python-is-great)에 들어오셔서 문의해주세요. 
+궁금한 점은 [공식 서포트 서버](https://discord.gg/spectrum)에 들어오셔서 문의해주세요. 
 
 > 마지막 수정 날짜: 2020.12.24 20:53
